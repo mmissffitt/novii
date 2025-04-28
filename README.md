@@ -32,3 +32,5 @@ git config user.name "Anna"
 git config credential.username "mmissffitt"
 
 git push -u origin master
+
+установка страпи - npx create-strapi-app qwerty --quickstart
